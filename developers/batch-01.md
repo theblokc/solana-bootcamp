@@ -1,3 +1,4 @@
+# Solana Developers Bootcamp - Batch 1 Participants
 ### Kenneth Panes
 > Oracle database developer with 13 years of experience working with the largest retailers around the world. Got hooked into learning cryptocurrency and explored DeFi, NFT's and its potential use cases. 
 
