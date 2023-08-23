@@ -29,3 +29,9 @@ Template:
 </a>
 ```
 
+### Submit your changes for review
+Once you've added your change. Push it to your local repository first. Then if you go to your repository on GitHub, you will see a Compare & Pull Request button, click it.
+
+Now submit the Pull Request. Your PR title should be: "Add YOUR_NAME".
+
+Once your pull request is merged, your profile will be visible in the list.
