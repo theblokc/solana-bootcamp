@@ -1,6 +1,6 @@
 # Solana Developers Bootcamp - Batch 1 Participants
 ### Neilson Diñoso
-> I make mobile apps using react native and I can do backend using MySQL and APIs using Express.js
+> I make mobile apps using [React Native](https://reactnative.dev/)and I can do backend using MySQL and APIs using Express.js
 
 [![github](https://github.com/Kneel-soN.png?size=32)](https://github.com/Kneel-soN)
 <a target="_blank" href="https://twitter.com/KneeelsoN">
