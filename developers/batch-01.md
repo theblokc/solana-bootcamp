@@ -6,6 +6,6 @@
 <a target="_blank" href="https://twitter.com/KneeelsoN">
   <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter-rounded-square.svg" height="32" />
 </a>
-<a target="_blank" href="www.linkedin.com/in/neilson-diñoso-8516b4289">
+<a target="_blank" href="https://www.linkedin.com/in/neilson-di%C3%B1oso-8516b4289/">
   <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" height="32" />
 </a>
