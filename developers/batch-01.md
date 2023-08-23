@@ -2,7 +2,7 @@
 ### Neilson Diñoso
 > I make mobile apps using react native and I can do backend using MySQL
 
-[![github](https://github.com/GITHUB_USERNAME.png?size=32)](https://github.com/Kneel-soN)
+[![github](https://github.com/Kneel-soN.png?size=32)](https://github.com/Kneel-soN)
 <a target="_blank" href="https://twitter.com/KneeelsoN">
   <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter-rounded-square.svg" height="32" />
 </a>
